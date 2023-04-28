@@ -5,4 +5,4 @@ __Языки и инструменты__:
 - asyncio
 - aiohttp
 - WebSocket
-- <a href="https://min.io/" target="_blank" rel="noreferrer">Minio.</a>
+- <a href="https://min.io/" target="_blank" rel="noreferrer">Minio</a>
